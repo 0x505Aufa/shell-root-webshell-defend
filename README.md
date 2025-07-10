@@ -4,10 +4,11 @@ A lightweight, responsive, and beautifully designed webshell packed with essenti
 
 🔐 **Login Password:** `aufa`
 
-📂 **Preview screenshots located in the `proff` folder:**
-- `Capture.PNG`
-- `Capture1.PNG`
-- `Capture2.PNG`
+📸 **Interface Preview:**
+
+![Preview 1](proff/Capture.PNG)
+![Preview 2](proff/Capture1.PNG)
+![Preview 3](proff/Capture2.PNG)
 
 🎥 **Watch the demo video & usage tutorial on our Telegram channel:**
 ➡️ [https://t.me/Serverinternaleror505](https://t.me/Serverinternaleror505)
@@ -48,5 +49,3 @@ A lightweight, responsive, and beautifully designed webshell packed with essenti
 
 ---
 
-🧠 **Note:**
-Use responsibly and only on servers you own or have explicit permission to manage.
